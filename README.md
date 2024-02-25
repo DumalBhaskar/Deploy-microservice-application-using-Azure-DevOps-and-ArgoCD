@@ -1,7 +1,11 @@
 ## Deploy microservice application using Azure DevOps and ArgoCD
 A simple distributed application running across multiple Docker containers.
 
-## Architecture
+## Project Architecture
+
+![Project Architecture diagram](projectarchitecture.excalidraw.png)
+
+## Applcation Architecture
 
 ![Application Architecture diagram](architecture.excalidraw.png)
 
@@ -11,6 +15,3 @@ A simple distributed application running across multiple Docker containers.
 * A [Postgres](https://hub.docker.com/_/postgres/) database backed by a Docker volume
 * A [Node.js](/result) web app which shows the results of the voting in real time
 
-## Project Architecture
-
-![Project Architecture diagram](projectarchitecture.excalidraw.png)
