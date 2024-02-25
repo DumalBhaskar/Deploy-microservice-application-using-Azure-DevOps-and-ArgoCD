@@ -13,4 +13,4 @@ A simple distributed application running across multiple Docker containers.
 
 ## Project Architecture
 
-![Project Architecture diagram](Project project architecture.excalidraw.png)
+![Project Architecture diagram](project architecture.excalidraw.png)
